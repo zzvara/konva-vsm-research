@@ -1,0 +1,12 @@
+export const config = {
+  NODE_RADIUS: 20,
+  ARROW_LENGTH: 20,
+  ARROW_WIDTH: 10,
+  ARROW_COLOR: '#333',
+
+  GRID_SPACING: 300,
+  GRID_OFFSET_X: 100,
+  GRID_OFFSET_Y: 100,
+  NODES_IN_ROW: 5,
+  NODES_IN_COL: 5,
+};
